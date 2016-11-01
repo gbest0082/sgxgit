@@ -1,4 +1,0 @@
-# sgxgit
-<?php
-echo "hello"
-
